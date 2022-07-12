@@ -1,0 +1,13 @@
+GET https://rest.bd.evmos.org:1317/evmos/epochs/v1/epochs
+content-type: application/json
+
+GET https://rest.bd.evmos.org:1317/evmos/claims/v1/params
+content-type: application/json
+
+GET https://rest.bd.evmos.org:1317/evmos/claims/v1/total_unclaimed
+content-type: application/json
+
+GET https://rest.bd.evmos.org:1317/cosmos/staking/v1beta1/delegations/evmos1fqhwmjw9772zcmankzydq4kd38jjv2x39lqwx3
+content-type: application/json
+
+#evmos1fqhwmjw9772zcmankzydq4kd38jjv2x39lqwx3

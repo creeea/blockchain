@@ -1,0 +1,3 @@
+GET https://rpc.evmos.ezstaking.io/unconfirmed_txs?limit=1000
+content-type: application/json
+

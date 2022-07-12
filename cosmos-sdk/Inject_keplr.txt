@@ -1,0 +1,45 @@
+await window.keplr.experimentalSuggestChain({
+	"chainId": "osmo-test-4",
+	"chainName": "osmo-test-4",
+	"rpc": "https://osmosis-rpc.evmos.dev:443",
+	"rest": "https://osmosis-api.evmos.dev",
+	"bip44": {
+		"coinType": "118"
+	},
+	"coinType": "118",
+	"bech32Config": {
+		"bech32PrefixAccAddr": "osmo",
+		"bech32PrefixAccPub": "osmopub",
+		"bech32PrefixValAddr": "osmovaloper",
+		"bech32PrefixValPub": "osmovaloperpub",
+		"bech32PrefixConsAddr": "osmovalcons",
+		"bech32PrefixConsPub": "osmovalconspub"
+	},
+	"currencies": [
+		{
+			"coinDenom": "OSMO",
+			"coinMinimalDenom": "uosmo",
+			"coinDecimals": "6",
+			"coinGeckoId": "osmosis"
+		}
+	],
+	"feeCurrencies": [
+		{
+			"coinDenom": "OSMO",
+			"coinMinimalDenom": "uosmo",
+			"coinDecimals": "6",
+			"coinGeckoId": "osmosis"
+		}
+	],
+	"stakeCurrency": {
+		"coinDenom": "OSMO",
+		"coinMinimalDenom": "uosmo",
+		"coinDecimals": "6",
+		"coinGeckoId": "osmosis"
+	},
+	"gasPriceStep": {
+		"low": 0.01,
+		"average": 0.025,
+		"high": 0.03
+	}
+});
