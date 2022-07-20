@@ -3,3 +3,9 @@ POST https://eth.bd.evmos.org:8545
 content-type: application/json
 
 {"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":9001}
+
+
+POST "http://chainripper-2.althea.net:8545"
+content-type: application/json
+
+{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}
