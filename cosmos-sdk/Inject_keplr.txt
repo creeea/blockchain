@@ -1,8 +1,8 @@
 await window.keplr.experimentalSuggestChain({
 	"chainId": "osmo-test-4",
 	"chainName": "osmo-test-4",
-	"rpc": "https://osmosis-rpc.evmos.dev:443",
-	"rest": "https://osmosis-api.evmos.dev",
+	"rpc": "https://osmosistest-rpc.quickapi.com:443/",
+	"rest": "https://osmosistest-lcd.quickapi.com:443/",
 	"bip44": {
 		"coinType": "118"
 	},
