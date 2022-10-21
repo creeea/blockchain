@@ -37,6 +37,7 @@ while partial_claim_records_length == 300 and counter < 7000:
         r.raise_for_status()
         r = r.json()
         partial_claim_records = r["claims"]
+        print(partial_claim_records)
         partial_claim_records_length = len(partial_claim_records)
         next_key = r['pagination']['next_key']
 

@@ -1,0 +1,19 @@
+{
+  "description": "The native staking and governance token of the Kujira chain.",
+   "denom_units": [
+                {
+                        "denom": "ibc/A3ABC733BECAEA02484AFB992F689DF8B8820DD4845EE4BCEBA680AEAE03E3FA",
+                        "exponent": 0,
+                        "aliases": ["ukuji"]
+                },
+                {
+                        "denom": "kuji",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/A3ABC733BECAEA02484AFB992F689DF8B8820DD4845EE4BCEBA680AEAE03E3FA",
+        "display": "kuji",
+        "name": "Kuji",
+        "symbol": "KUJI"
+}

@@ -1,0 +1,18 @@
+{
+  "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
+   "denom_units": [
+                {
+                        "denom": "ibc/AB40F54CC4BAF9C4FDB5CB5BDFC4D6CDB475BFE84BCEAF4F72F02EDAEED60F05",
+                        "exponent": 0
+                },
+                {
+                        "denom": "eeur",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/AB40F54CC4BAF9C4FDB5CB5BDFC4D6CDB475BFE84BCEAF4F72F02EDAEED60F05",
+        "display": "eeur",
+        "name": "e-Money EUR",
+        "symbol": "EEUR"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Wrapped Ether on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/356EDE917394B2AEF7F915EB24FA683A0CCB8D16DD4ECCEDC2AD0CEC6B66AC81",
+                        "exponent": 0,
+                        "aliases": ["weth-wei"]
+                },
+                {
+                        "denom": "axlweth",
+                        "exponent": 18
+                }
+
+        ],
+        "base": "ibc/356EDE917394B2AEF7F915EB24FA683A0CCB8D16DD4ECCEDC2AD0CEC6B66AC81",
+        "display": "axlweth",
+        "name": "Wrapped Ether on Axelar",
+        "symbol": "axlWETH"
+}

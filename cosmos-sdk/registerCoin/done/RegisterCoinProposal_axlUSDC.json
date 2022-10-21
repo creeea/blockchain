@@ -1,0 +1,19 @@
+{
+  "description": "Circle's stablecoin on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/63C53CBDF471D4E867366ABE2E631197257118D1B2BEAD1946C8A408F96464C3",
+                        "exponent": 0,
+                        "aliases": ["uusdc"]
+                },
+                {
+                        "denom": "axlusdc",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/63C53CBDF471D4E867366ABE2E631197257118D1B2BEAD1946C8A408F96464C3",
+        "display": "axlusdc",
+        "name": "USD Coin on Axelar",
+        "symbol": "axlUSDC"
+}

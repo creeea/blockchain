@@ -23,3 +23,11 @@
     https://testnet.mintscan.io/evmos-testnet/txs/6FA3E70527F14CB18459C51E9ADA99582186C93BAE1F6822A29CBA49B90AB976
     
     https://testnet.mintscan.io/osmosis-testnet/txs/C6C907D3D5D9127A4A004B87F0DE033079565976F019320EEB35D2181E575BA5
+
+
+
+    ./axelard tx ibc-transfer transfer transfer channel-22 evmos177ggk979ag3cjyt6vevzep2spl3xyfdtsq0937 "755wbtc-satoshi" --chain-id  axelar-dojo-1 -y --from ape --gas auto --gas-prices=0.010uaxl --node https://axelar-rpc.polkachu.com:443 --gas auto --gas-adjustment 1.5
+
+    ./axelard tx ibc-transfer transfer transfer channel-22 evmos177ggk979ag3cjyt6vevzep2spl3xyfdtsq0937 "1009670976427weth-wei" --chain-id  axelar-dojo-1 -y --from ape --gas auto --gas-prices=0.010uaxl --node https://axelar-rpc.polkachu.com:443 --gas auto --gas-adjustment 1.5
+
+    1009670976427402

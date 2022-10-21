@@ -1,0 +1,19 @@
+{
+  "description": "Wrapped Bitcoin on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/C834CD421B4FD910BBC97E06E86B5E6F64EA2FE36D6AE0E4304C2E1FB1E7333C",
+                        "exponent": 0,
+                        "aliases": ["wbtc-satoshi"]
+                },
+                {
+                        "denom": "axlwbtc",
+                        "exponent": 8
+                }
+
+        ],
+        "base": "ibc/C834CD421B4FD910BBC97E06E86B5E6F64EA2FE36D6AE0E4304C2E1FB1E7333C",
+        "display": "axlwbtc",
+        "name": "Wrapped Bitcoin on Axelar",
+        "symbol": "axlWBTC"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Wrapped Polkadot on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/80938A67AB5C2302E74919802F40F9F3A9CCE40FC878361AA4A53734EC40AF5A",
+                        "exponent": 0,
+                        "aliases": ["dot-planck"]
+                },
+                {
+                        "denom": "axldot",
+                        "exponent": 10
+                }
+
+        ],
+        "base": "ibc/80938A67AB5C2302E74919802F40F9F3A9CCE40FC878361AA4A53734EC40AF5A",
+        "display": "axldot",
+        "name": "Wrapped Polkadot on Axelar",
+        "symbol": "axlDOT"
+}

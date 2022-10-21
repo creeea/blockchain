@@ -1,0 +1,19 @@
+{
+  "description": "",
+   "denom_units": [
+                {
+                        "denom": "",
+                        "exponent": 0,
+                        "aliases": [""]
+                },
+                {
+                        "denom": "",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "",
+        "display": "",
+        "name": "",
+        "symbol": ""
+}

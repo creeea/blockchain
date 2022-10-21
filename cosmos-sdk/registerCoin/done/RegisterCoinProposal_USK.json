@@ -1,0 +1,19 @@
+{
+  "description": "An over-collateralized soft-pegged token to the USD on the Kujira chain",
+   "denom_units": [
+                {
+                        "denom": "ibc/47BEBD156D49678A8D85661D792EB364F875265D7593E165C339F2D4C5C4CBAB",
+                        "exponent": 0,
+                        "aliases": ["uusk"]
+                },
+                {
+                        "denom": "usk",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/47BEBD156D49678A8D85661D792EB364F875265D7593E165C339F2D4C5C4CBAB",
+        "display": "usk",
+        "name": "USK Stablecoin of Kujira",
+        "symbol": "USK"
+}

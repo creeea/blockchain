@@ -1,0 +1,19 @@
+{
+  "description": "Dai stablecoin on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/CBA4784581AD4BEF308C536A3CD44D4A940A520E61B0D1E4FB115C539F61DEE5",
+                        "exponent": 0,
+                        "aliases": ["dai-wei"]
+                },
+                {
+                        "denom": "axldai",
+                        "exponent": 18
+                }
+
+        ],
+        "base": "ibc/CBA4784581AD4BEF308C536A3CD44D4A940A520E61B0D1E4FB115C539F61DEE5",
+        "display": "axldai",
+        "name": "Dai Stablecoin on Axelar",
+        "symbol": "axlDAI"
+}

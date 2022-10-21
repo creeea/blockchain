@@ -1,0 +1,19 @@
+{
+  "description": "The native token of Stargaze",
+   "denom_units": [
+                {
+                        "denom": "ibc/7564B7F838579DD4517A225978C623504F852A6D0FF7984AFB28F10D36022BE8",
+                        "exponent": 0,
+                        "aliases": ["ustars"]
+                },
+                {
+                        "denom": "stars",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/7564B7F838579DD4517A225978C623504F852A6D0FF7984AFB28F10D36022BE8",
+        "display": "stars",
+        "name": "Stargaze",
+        "symbol": "STARS"
+}

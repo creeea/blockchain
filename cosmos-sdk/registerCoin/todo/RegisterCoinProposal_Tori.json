@@ -1,0 +1,19 @@
+{
+  "description": "The native staking and governance token of the Teritori chain",
+   "denom_units": [
+                {
+                        "denom": "ibc/18D5C3CDDF1DEE108CE4BF0A7E0262D94D11AB06A37F68EA38F70CC92C5D894F",
+                        "exponent": 0,
+                        "aliases": ["utori"]
+                },
+                {
+                        "denom": "tori",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/18D5C3CDDF1DEE108CE4BF0A7E0262D94D11AB06A37F68EA38F70CC92C5D894F",
+        "display": "tori",
+        "name": "Teritori",
+        "symbol": "TORI"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Maker on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/620628A7B308C0B1CCC109A9CFD9BC8089F9A527674C91733B1E15D9A65CF567",
+                        "exponent": 0,
+                        "aliases": ["mkr-wei"]
+                },
+                {
+                        "denom": "axlmkr",
+                        "exponent": 18
+                }
+
+        ],
+        "base": "ibc/620628A7B308C0B1CCC109A9CFD9BC8089F9A527674C91733B1E15D9A65CF567",
+        "display": "axlmkr",
+        "name": "Maker on Axelar",
+        "symbol": "axlMKR"
+}
