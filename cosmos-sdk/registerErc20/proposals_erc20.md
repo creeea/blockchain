@@ -4,8 +4,6 @@
 # deposit
  evmosd tx gov deposit 35 63000000000000000000aevmos --from test --chain-id=evmos_9001-2 --fees 16000000000000000000aevmos --gas 8000000
 
-
-
 #####################################################
 ## Author
 GV | Swiss Staking ([@swiss_staking](https://twitter.com/swiss_staking))

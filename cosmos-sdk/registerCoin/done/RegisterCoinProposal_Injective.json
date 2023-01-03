@@ -1,0 +1,18 @@
+{
+  "description": "The INJ token is the native governance token for the Injective chain.",
+   "denom_units": [
+         {
+             "denom": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
+             "exponent": 0,
+             "aliases": ["inj"]
+         },
+            {
+             "denom": "INJ",
+             "exponent": 18
+            }
+     ],
+     "base": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
+     "display": "INJ",
+     "name": "Injective",
+     "symbol": "INJ"
+ }

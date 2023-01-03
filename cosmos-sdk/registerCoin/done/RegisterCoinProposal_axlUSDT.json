@@ -1,0 +1,19 @@
+{
+  "description": "Tether's USD stablecoin on Axelar",
+   "denom_units": [
+                {
+                        "denom": "ibc/F11C8CB7743E4B5FDCEA7C97F3B2C115E1931C5614B84C183DAC439B4C919D94",
+                        "exponent": 0,
+                        "aliases": ["uusdt"]
+                },
+                {
+                        "denom": "axlusdt",
+                        "exponent": 6
+                }
+
+        ],
+        "base": "ibc/F11C8CB7743E4B5FDCEA7C97F3B2C115E1931C5614B84C183DAC439B4C919D94",
+        "display": "axlusdt",
+        "name": "Tether USD on Axelar",
+        "symbol": "axlUSDT"
+}
