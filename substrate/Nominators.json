@@ -1,0 +1,56 @@
+{
+    "code": 0,
+    "message": "Success",
+    "generated_at": 1672730984,
+    "data": {
+        "count": 6,
+        "list": [
+            {
+                "rank_nominator": 0,
+                "nominator_stash": "5EYCAe5ijiYfAXEth5DFzMi9EMFCV6EFRyFuvwLky6Xx6dx8",
+                "bonded": "0",
+                "account_display": {
+                    "address": "5EYCAe5ijiYfAXEth5DFzMi9EMFCV6EFRyFuvwLky6Xx6dx8",
+                    "display": "Pool#55(Stash)"
+                },
+                "validator_stash": ""
+            },
+            {
+                "rank_nominator": 0,
+                "nominator_stash": "5CGBepa9CPczmH8EveiTGrgF4zLhThxd4ZyQ7AHR8ZFEYfQL",
+                "bonded": "0",
+                "account_display": {
+                    "address": "5CGBepa9CPczmH8EveiTGrgF4zLhThxd4ZyQ7AHR8ZFEYfQL"
+                },
+                "validator_stash": ""
+            },
+            {
+                "rank_nominator": 0,
+                "nominator_stash": "5FpUiJMZS4cgz19pTTZU2fGdzteoVTDysHgmnpR6cPFpGoVt",
+                "bonded": "0",
+                "account_display": {
+                    "address": "5FpUiJMZS4cgz19pTTZU2fGdzteoVTDysHgmnpR6cPFpGoVt"
+                },
+                "validator_stash": ""
+            },
+            {
+                "rank_nominator": 0,
+                "nominator_stash": "5CcT7ZMDHwM8ES2ALRWLh7dqnyfz6XiwJkxZ16eCNs5QuJ3i",
+                "bonded": "0",
+                "account_display": {
+                    "address": "5CcT7ZMDHwM8ES2ALRWLh7dqnyfz6XiwJkxZ16eCNs5QuJ3i"
+                },
+                "validator_stash": ""
+            },
+            {
+                "rank_nominator": 0,
+                "nominator_stash": "5CFEyMC8SCz1wubxoYKdyqEqCKif7Jxx3Q3LnLWTHUDPY6c1",
+                "bonded": "0",
+                "account_display": {
+                    "address": "5CFEyMC8SCz1wubxoYKdyqEqCKif7Jxx3Q3LnLWTHUDPY6c1"
+                },
+                "validator_stash": ""
+            },
+            {
+                "rank_nominator": 0,
+                "nominator_stash":"5HQtHB9RgA5GSowjTLmWpv7UyUkWRK12So35djuEY64AC
